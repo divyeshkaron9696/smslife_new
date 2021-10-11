@@ -1,0 +1,32 @@
+{
+	"app_bar": {
+		"home": "Home"
+	},
+	"text": {
+		"login": "Login",
+		"mobileNumber": "Mobile Number",
+		"registeryet": "Your mobile number is not registered yet?",
+		"terms": "By sign in, you agree to our Terms and Conditions",
+		"noDataAvailable": "No message available!",
+		"logout": "Logout",
+		"areyousure": "Are you sure you want to Logout?",
+		"yes":"Yes",
+		"no": "No",
+		"password": "Password",
+		"forgot": "Forgot Password?",
+		"or": "OR",
+		"registernow": "Register now",
+		"register": "Register",
+		"name": "Name",
+		"selectuser": "Select type",
+		"selectstate": "Your state",
+		"selectcity": "Your city",
+		"address": "Address",
+		"pincode": "Pincode",
+		"entername": "Please enter name",
+		"enterpassword": "Please enter password",
+		"enteraddress": "Please enter address",
+		"enterpincode": "Please enter pincode",
+		"enternumber": "Please enter Mobile Number"
+	}
+}

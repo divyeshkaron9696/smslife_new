@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234144688158",
+    "project_id": "smslife-messaging",
+    "storage_bucket": "smslife-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234144688158:android:b3b7f080f377384355e60f",
+        "android_client_info": {
+          "package_name": "com.karoninfotech.smslife_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234144688158-g0mnkgpcm7chlq91uo3q366ki4pohq8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-_FPuJiS8E_pQU-zj0jFbmJlR5ikwqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234144688158-g0mnkgpcm7chlq91uo3q366ki4pohq8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
